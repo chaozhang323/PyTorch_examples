@@ -4,4 +4,4 @@
 
 
 
-## Create templates for each machine learning modeling. 
+## Create templates for each machine learning models. 
